@@ -30,6 +30,14 @@ const products=[{
     count:2197
   },
   priceCents:1899
+},{
+  image:"images/products/6-piece-white-dinner-plate-set.jpg",
+  name:"6-Piece White Dinner Plate Set",
+  rating:{
+    stars:4,
+    count:37
+  },
+  priceCents:2067
 }];
 let productsHTML="";
 products.forEach((product)=>{
